@@ -1,4 +1,4 @@
-![Open Source at Mindbox](img/mbx.png) 
+![Open Source at Mindbox](../img/mbx.png) 
 
 # Mindbox ♥ Open Source
 
